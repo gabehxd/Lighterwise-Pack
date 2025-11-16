@@ -7,7 +7,7 @@ B:force_fullscreen = 'false';
 
 ##[customization]
 
-B:modpack_mode = 'true';
+B:modpack_mode = 'false';
 B:show_customization_overlay = 'true';
 B:advanced_customization_mode = 'false';
 
@@ -48,7 +48,7 @@ B:show_layout_editor_grid = 'true';
 B:anchor_overlay_change_anchor_on_element_hover = 'true';
 S:anchor_overlay_visibility_mode = 'dragging';
 B:anchor_overlay_show_all_connection_lines = 'false';
-F:layout_editor_grid_snapping_strength = '1.0';
+F:layout_editor_grid_snapping_strength = '1.5';
 S:anchor_overlay_color_base_override = '';
 I:layout_editor_grid_size = '10';
 B:invert_anchor_overlay_color = 'false';

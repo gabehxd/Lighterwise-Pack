@@ -3,14 +3,14 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1763209593038
+  last_edited_time = 1763263091337
   is_enabled = true
   randommode = true
   randomgroup = 67
   randomonlyfirsttime = false
   layout_index = 0
-  universal_layout_blacklist = title_screen;create_world_screen;join_multiplayer_screen;realms_main_screen;com.terraformersmc.modmenu.gui.ModsScreen;
-  [loading_requirement_container_meta:c813a973-bdef-4524-abc4-233805e0317b-1763209590347] = [groups:][instances:]
+  universal_layout_blacklist = title_screen;create_world_screen;join_multiplayer_screen;realms_main_screen;com.terraformersmc.modmenu.gui.ModsScreen;keepinv_menu;
+  [loading_requirement_container_meta:dc265285-8743-4786-b3b1-86974c170cdb-1763263070670] = [groups:][instances:]
 }
 
 menu_background {
@@ -91,13 +91,13 @@ element {
   auto_sizing_base_screen_height = 1419
   sticky_anchor = false
   anchor_point = top-left
-  x = -71
-  y = 4
+  x = 0
+  y = 0
   width = 112
   height = 12
   stretch_x = false
   stretch_y = false
-  stay_on_screen = true
+  stay_on_screen = false
   element_loading_requirement_container_identifier = 4d8e7331-67d2-42b8-a235-011c2da983a3-1763200314181
   [loading_requirement_container_meta:4d8e7331-67d2-42b8-a235-011c2da983a3-1763200314181] = [groups:][instances:]
   enable_parallax = false

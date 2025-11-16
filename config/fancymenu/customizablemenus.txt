@@ -18,15 +18,3 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 net.minecraft.class_442 {
 }
 
-net.minecraft.class_500 {
-}
-
-net.minecraft.class_4325 {
-}
-
-com.terraformersmc.modmenu.gui.ModsScreen {
-}
-
-net.minecraft.class_525 {
-}
-
