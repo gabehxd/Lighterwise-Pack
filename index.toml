@@ -25,6 +25,14 @@ file = "config/fancymenu/assets/art/theskycat101.png"
 hash = "3752114c66879ce22fb640b58836116f763a7f8ad7932873a3168ba87636e75b"
 
 [[files]]
+file = "config/fancymenu/assets/load.png"
+hash = "a9057944f68da2c4db7a6d9d1a8c48d93c42ee014c5ef23b34afe301eb238ca3"
+
+[[files]]
+file = "config/fancymenu/assets/lw1.apng"
+hash = "13d9237709040803e6f602dfb237b059d7b3a4de83ff6f97bc109bf236ea7c6d"
+
+[[files]]
 file = "config/fancymenu/assets/mac.icns"
 hash = "0904c257381ab094e33ced5c9f97b524ef003df20637ab37bd5028ae9044b349"
 
@@ -35,6 +43,18 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "4269d4f38b3b61d50836da002dd1db044f27cdde547989469506c576cabdd3a3"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "a41df96fa9f458dea216eea1b4ecaf786fb983cd9d38fbddf269df108fd50666"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "7a769d3c5987da60a402b4e31c703f32cbb1b226c0dc53c77c02ead853e419bd"
+
+[[files]]
+file = "config/fancymenu/customization/keepinv_menu_layout.txt"
+hash = "3c3ae2a8db045742c9dcfafeb8749915c75d61e3affb864d3519e50aa97cf717"
 
 [[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
