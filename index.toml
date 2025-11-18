@@ -149,6 +149,10 @@ file = "config/yosbr/config/xaerominimap.txt"
 hash = "e848db722caab8ac8bcbf835432f8e515077adccae0e5012c8ff82654ddc07a4"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "76239797bf685ce3eca8189781511516c2b9676465aabb34e708cdfbe5a404a1"
+
+[[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "ff914767098b00b03bd4ffc92f0d72320dc6a700d556c09d5e460404b77a530a"
 
@@ -158,7 +162,7 @@ hash = "3b8326f3222fbb6c24ab1392d96b3b08bb02726859c4dbcb1fd47c24fafba5e9"
 
 [[files]]
 file = "config/yosbr/servers.dat"
-hash = "5beba6a738eab9cdf1d12892e1bf1e1e6d17088d7105d3a4bb902279fd10e73c"
+hash = "aebfe7cca19f071028f32c14e4b9db7e605b0f9dc46a02afe2157f2cd6c5969f"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
