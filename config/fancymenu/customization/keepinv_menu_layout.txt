@@ -1,15 +1,15 @@
 type = fancymenu_layout
 
 layout-meta {
-  identifier = keepinv_menu
+  identifier = keepinv
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1763260485243
+  last_edited_time = 1763611564854
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:14e9b0a6-ac04-468f-b580-446294fa72d2-1763260465388] = [groups:][instances:]
+  [loading_requirement_container_meta:d67201d3-3cde-46bd-8e1d-f43ce1899818-1763611502085] = [groups:][instances:]
 }
 
 customization {
@@ -41,7 +41,7 @@ element {
   text_border = 2
   line_spacing = 2
   enable_scrolling = false
-  auto_line_wrapping = true
+  auto_line_wrapping = false
   remove_html_breaks = true
   code_block_single_color = #737373FF
   code_block_multi_color = #565656FF
@@ -78,8 +78,8 @@ element {
   auto_sizing_base_screen_height = 1419
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -100
-  y = -123
+  x = -102
+  y = -120
   width = 200
   height = 15
   stretch_x = true
@@ -99,13 +99,14 @@ element {
 
 element {
   button_element_executable_block_identifier = f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944
-  [executable_action_instance:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549][action_type:sendmessage] = /keepinv on
-  [executable_block:f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944][type:generic] = [executables:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549;]
+  [executable_action_instance:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549][action_type:sendmessage] = /keepinventory on
+  [executable_action_instance:5ffbb4fa-a729-49a9-b75a-08e19b6f4090-1763607822433][action_type:closegui] = 
+  [executable_block:f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944][type:generic] = [executables:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549;5ffbb4fa-a729-49a9-b75a-08e19b6f4090-1763607822433;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = This can be disabled later!
+  description = This can be changed later!
   label = Yes
   navigatable = true
   widget_active_state_requirement_container_identifier = d7548c98-083e-4e98-ad2c-c46aabc06a77-1763259840944
@@ -136,7 +137,7 @@ element {
   auto_sizing_base_screen_height = 1419
   sticky_anchor = false
   anchor_point = mid-centered
-  x = -123
+  x = -120
   y = 0
   width = 100
   height = 20
@@ -157,13 +158,14 @@ element {
 
 element {
   button_element_executable_block_identifier = f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944
-  [executable_action_instance:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549][action_type:sendmessage] = /keepinv on
-  [executable_block:f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944][type:generic] = [executables:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549;]
+  [executable_action_instance:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549][action_type:sendmessage] = /keepinventory off
+  [executable_action_instance:0fde8186-2314-479c-a7ed-df5af0104be5-1763607843429][action_type:closegui] = 
+  [executable_block:f2ddf503-f830-4dcc-95ed-0a6423168870-1763259840944][type:generic] = [executables:750da975-d713-423a-a2d2-c5c6c376bcf4-1763259845549;0fde8186-2314-479c-a7ed-df5af0104be5-1763607843429;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  description = This can be turned on later!
+  description = This can be changed later!
   label = No
   navigatable = true
   widget_active_state_requirement_container_identifier = d7548c98-083e-4e98-ad2c-c46aabc06a77-1763259840944
@@ -194,7 +196,7 @@ element {
   auto_sizing_base_screen_height = 1419
   sticky_anchor = false
   anchor_point = mid-centered
-  x = 23
+  x = 20
   y = 0
   width = 100
   height = 20

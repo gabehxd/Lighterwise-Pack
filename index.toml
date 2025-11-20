@@ -25,8 +25,8 @@ file = "config/fancymenu/assets/art/theskycat101.png"
 hash = "3752114c66879ce22fb640b58836116f763a7f8ad7932873a3168ba87636e75b"
 
 [[files]]
-file = "config/fancymenu/assets/load.png"
-hash = "a9057944f68da2c4db7a6d9d1a8c48d93c42ee014c5ef23b34afe301eb238ca3"
+file = "config/fancymenu/assets/load3.png"
+hash = "1760097ab0f5e09b12b817f777ecd5e62d1f0d97be84fce6784267eb37f4a040"
 
 [[files]]
 file = "config/fancymenu/assets/lw1.apng"
@@ -38,27 +38,35 @@ hash = "0904c257381ab094e33ced5c9f97b524ef003df20637ab37bd5028ae9044b349"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "11f3ca866043ebc5150b559751aaee997531f39c82b96df45f6681e2ce779ae9"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "4269d4f38b3b61d50836da002dd1db044f27cdde547989469506c576cabdd3a3"
+hash = "c3ff268ab3a5709acf2254fdaad86b466e9b6bec145c28499fcb61b5f79cf206"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "a41df96fa9f458dea216eea1b4ecaf786fb983cd9d38fbddf269df108fd50666"
+hash = "41cdf66edb52a842853226848372e19ad2a2b022494ebfaefc61d765dda83621"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
 hash = "1b79946111e9dcbc32863d7ade840e76d9391d5b262132607d3043f56226a4f6"
 
 [[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "a13b8c66c234adbaefb5f8f7946ddfbcd0178279e5bbaa8337d63fae941bfaa5"
+
+[[files]]
 file = "config/fancymenu/customization/keepinv_menu_layout.txt"
-hash = "3c3ae2a8db045742c9dcfafeb8749915c75d61e3affb864d3519e50aa97cf717"
+hash = "9817923d4ec243c114af314b4339bf0cbfdd1b41888352d43c0e687cfb53285f"
 
 [[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
 hash = "355f14ddd171d6420a73065f649d658afdafca1e0d6d51145e35436f65fa5ee3"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "d6dff8425b9a3f8d4ae76d0565ca63c4e214cfa4e5494482fd0b35e9d48ba4d1"
 
 [[files]]
 file = "config/fancymenu/customization/theskycat101_bg.txt"
