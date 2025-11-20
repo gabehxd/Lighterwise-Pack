@@ -42,15 +42,15 @@ hash = "355f14ddd171d6420a73065f649d658afdafca1e0d6d51145e35436f65fa5ee3"
 
 [[files]]
 file = "config/fancymenu/customization/theskycat101_bg.txt"
-hash = "a2221a4ac11c8f3e22c132a25dc9ba4d84eec2791a029cfae4b4ef892f9ee302"
+hash = "ebd8f1f4ad04b04dd11474ad737895b8a72fc2fa13057aaf770d369a2e237d03"
 
 [[files]]
 file = "config/fancymenu/customization/unahasjumpped_bg_1.txt"
-hash = "c7cdbc3f1de51f6f5473b20d966aecd7fd7f9e9058b4dddd68a376148ebf14bc"
+hash = "753b7d9d45c410f13f973e11a92f89b4da661bce4c73495228ec8961f0c6c481"
 
 [[files]]
 file = "config/fancymenu/customization/unahasjumpped_bg_2.txt"
-hash = "7de314ddfdfb0773b4363e916e4d880bac5d14572518fbb3109f2f72ea6d69df"
+hash = "9bb22685349287464c851a4c6d6a93d83622c77aa3c4cc3b4d53a23f126aaa7d"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -62,7 +62,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "1fea987b275a7157b83fc2e1e65c1446d7c909364c0829dbac6ef687a757e47e"
+hash = "b08bfb1fa226f2028d7c256d5283ef754cb94b89f903478c5fe9371eeb55b168"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
