@@ -3,18 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1763600634122
+  last_edited_time = 1763619317888
   is_enabled = true
   randommode = true
   randomgroup = 67
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_whitelist = create_world_screen;level_loading_screen;generic_dirt_message_screen;progress_screen;connect_screen;drippy_loading_overlay;
-  [loading_requirement_container_meta:e5cb646d-952a-4e2e-b9d3-3d407c9800aa-1763600624697] = [groups:][instances:]
+  [loading_requirement_container_meta:09ad173f-5c54-410c-b25a-2324efd952ee-1763619313770] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/art/theskycat101.png
+  image_path = [source:local]/config/fancymenu/assets/art/theskycat101_1.png
   slide = false
   repeat_texture = false
   parallax = true
