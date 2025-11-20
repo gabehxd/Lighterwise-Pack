@@ -50,7 +50,7 @@ hash = "a41df96fa9f458dea216eea1b4ecaf786fb983cd9d38fbddf269df108fd50666"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "7a769d3c5987da60a402b4e31c703f32cbb1b226c0dc53c77c02ead853e419bd"
+hash = "1b79946111e9dcbc32863d7ade840e76d9391d5b262132607d3043f56226a4f6"
 
 [[files]]
 file = "config/fancymenu/customization/keepinv_menu_layout.txt"
@@ -62,7 +62,7 @@ hash = "355f14ddd171d6420a73065f649d658afdafca1e0d6d51145e35436f65fa5ee3"
 
 [[files]]
 file = "config/fancymenu/customization/theskycat101_bg.txt"
-hash = "ebd8f1f4ad04b04dd11474ad737895b8a72fc2fa13057aaf770d369a2e237d03"
+hash = "e92144f7185127c7bcd490ae9ca4e411399eaa6e0bf6c960f66bf32f62355245"
 
 [[files]]
 file = "config/fancymenu/customization/unahasjumpped_bg_1.txt"
@@ -70,7 +70,7 @@ hash = "753b7d9d45c410f13f973e11a92f89b4da661bce4c73495228ec8961f0c6c481"
 
 [[files]]
 file = "config/fancymenu/customization/unahasjumpped_bg_2.txt"
-hash = "9bb22685349287464c851a4c6d6a93d83622c77aa3c4cc3b4d53a23f126aaa7d"
+hash = "80cbe9c73cd176d1933b03bd0cb1ba6cc24e6eb81a5cdd044c5b88d2d6ccfe06"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
