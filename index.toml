@@ -263,6 +263,11 @@ hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "5049f3b8515cf52b7096cf3ac5d3f899d92cddde0ef89693763deea6cc59d328"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d61eea65d903963fc412f1e6dc4ec5c9f89814358e324cb734e0ec6e40ece483"
 metafile = true
