@@ -14,19 +14,19 @@ hash = "d08ff6fd66fc204f14dc22b65fb55b81d041b97147f77e236c77c529fcd42dbd"
 
 [[files]]
 file = "config/fancymenu/assets/art/lunahasjumpped_1.png"
-hash = "2f666b2f437b706e5fc62f61ddd9c415e5b140d863069dcf89170b8c7f511208"
+hash = "3a87137dcccc21a9f01e90988551105e179c708e99f4cb8acd54cd7f7942978d"
 
 [[files]]
 file = "config/fancymenu/assets/art/lunahasjumpped_2.png"
-hash = "676a105f22d5c10b7697f41536e0c3a246a0f92f15018502fc114f66e9c83b05"
+hash = "1a738941f8cf8179cd6a9454b976b97d5560fd3db690a07827f6806834cee1fb"
 
 [[files]]
 file = "config/fancymenu/assets/art/theskycat101_1.png"
-hash = "3752114c66879ce22fb640b58836116f763a7f8ad7932873a3168ba87636e75b"
+hash = "3a4578552a0f8d2e6c3f128b39f264726273649ed26c441d015cf9bf18b2cabe"
 
 [[files]]
 file = "config/fancymenu/assets/art/theskycat101_2.png"
-hash = "062fd04437d10f46fb459d2bf58ec71979adb9b5c5ebbad9fbb65a05a7acc63b"
+hash = "9984f4ef72d5715ae28fc50d954d48ddd1a3d238968426e3702a2c4c75495f76"
 
 [[files]]
 file = "config/fancymenu/assets/load3.png"
@@ -173,6 +173,14 @@ file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
+file = "config/yosbr/config/simple-rpc/server-entries.toml"
+hash = "2fca1a96fc6a4b07cdba82aad378f287e63109dd5b219987d3513fbb901c25e6"
+
+[[files]]
+file = "config/yosbr/config/simple-rpc/simple-rpc.toml"
+hash = "466ec284fba5e95973772b55d6392a48d12102ab79c789d2f6e857f8e7a448cc"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
@@ -273,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "5049f3b8515cf52b7096cf3ac5d3f899d92cddde0ef89693763deea6cc59d328"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "5ca99808c48e56205c8b02adfefa6489f9108eb25511f00721125cdc9fafe0e9"
 metafile = true
 
 [[files]]
@@ -508,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "1682add4f33743fe9c60cbae1342e02303d475b652948eeee9071c2be7119f08"
 metafile = true
 
 [[files]]
