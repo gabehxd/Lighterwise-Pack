@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "bc4668d6a3c606c1e1d95d3dc924d37edddc353b14f665d8d60c5638eadb8f64"
+hash = "0e073702f4562edac6258fd01f8b921628adf48fdd7e70209d93f4978753a0ce"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e6aa8d3d411cdf2c38eb7d2ab716350369d1bbb49be8bf10808232d772885af1"
+hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "20710957475bea4bc1591e14ed58cd5c693e912b61efa1cf3ed33df5cbe714ff"
+hash = "f06deb980ff2c6ab885c65a3d52ca9341470f12b544af6c1045d85262c407d80"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/gameclock.pw.toml"
-hash = "b9bc3c588a7f2b6895cfaa2ba896ff22c42be389aa9b4780069e83c20e1d3fd6"
+hash = "089a965df74bdf01489e5d6a14cd062bb2bffcb359573ff169a9b293ba7225dd"
 metafile = true
 
 [[files]]
