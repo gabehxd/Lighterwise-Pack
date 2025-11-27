@@ -42,7 +42,7 @@ hash = "0904c257381ab094e33ced5c9f97b524ef003df20637ab37bd5028ae9044b349"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "11f3ca866043ebc5150b559751aaee997531f39c82b96df45f6681e2ce779ae9"
+hash = "82ecb4a76cd726b10260c6d7800f647cd7ff9d38566eb9c830b1993b608388e2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -50,7 +50,7 @@ hash = "c3ff268ab3a5709acf2254fdaad86b466e9b6bec145c28499fcb61b5f79cf206"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
-hash = "41cdf66edb52a842853226848372e19ad2a2b022494ebfaefc61d765dda83621"
+hash = "e8cd86a147d54e2fa76deaac0468d059986d6d02fcae4ebe63690979f57fe7df"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
@@ -98,15 +98,15 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "c796ff116f02f4f92348e127e5c7bbecd53e98b75e9759a2f4b773912b54cdcc"
+hash = "ff44cc19f6598ba0d0af8326e951b183c3fb759368a821058210e1b8d575d08c"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
