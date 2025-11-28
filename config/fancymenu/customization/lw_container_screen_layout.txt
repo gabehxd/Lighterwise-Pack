@@ -1,0 +1,97 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = container_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1764297826415
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:ce3cf228-021a-432d-b0b4-dfdec9a203ca-1764297798872] = [groups:][instances:9060c058-c260-4c29-8ef6-33d9a6f4b396-1764297312162;]
+  [loading_requirement:is_menu_title][requirement_mode:if][req_id:9060c058-c260-4c29-8ef6-33d9a6f4b396-1764297312162] = Skills
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+}
+
+element {
+  button_element_executable_block_identifier = 6c8ee5b8-3f76-4baa-be9d-404b6e7d0f19-1764297451766
+  [executable_action_instance:500a3e03-e226-4126-9428-de42ec33b238-1764297807088][action_type:openlink] = https://github.com/Athlaeos/ValhallaMMO/wiki/Skills-&-Leveling-%F0%9F%94%BA
+  [executable_block:6c8ee5b8-3f76-4baa-be9d-404b6e7d0f19-1764297451766][type:generic] = [executables:500a3e03-e226-4126-9428-de42ec33b238-1764297807088;]
+  restartbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  label = Help
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 0cbd61e2-02be-4877-98bc-749d3d35a03f-1764297451766
+  [loading_requirement_container_meta:0cbd61e2-02be-4877-98bc-749d3d35a03f-1764297451766] = [groups:][instances:]
+  is_template = false
+  template_apply_width = false
+  template_apply_height = false
+  template_apply_posx = false
+  template_apply_posy = false
+  template_apply_opacity = false
+  template_apply_visibility = false
+  template_apply_label = false
+  template_share_with = buttons
+  nine_slice_slider_handle = false
+  nine_slice_slider_handle_border_x = 5
+  nine_slice_slider_handle_border_y = 5
+  element_type = custom_button
+  instance_identifier = c2a43e40-3fce-48bb-862a-96b1ce6e10e2-1764297451766
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2562
+  auto_sizing_base_screen_height = 1443
+  sticky_anchor = false
+  anchor_point = bottom-right
+  x = -104
+  y = -24
+  width = 100
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 61a575f2-5c57-4482-a989-f1e4d0cf3841-1764297451766
+  [loading_requirement_container_meta:61a575f2-5c57-4482-a989-f1e4d0cf3841-1764297451766] = [groups:][instances:]
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #FFC800FF
+  layer_hidden_in_editor = false
+  rotation_degrees = 0.0
+  advanced_rotation_mode = false
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_mode = false
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_mode = false
+}
+

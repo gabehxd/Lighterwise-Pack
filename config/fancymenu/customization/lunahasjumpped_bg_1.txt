@@ -3,18 +3,18 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1763849304652
+  last_edited_time = 1764292529199
   is_enabled = true
   randommode = true
   randomgroup = 67
   randomonlyfirsttime = false
   layout_index = 0
-  universal_layout_whitelist = create_world_screen;level_loading_screen;generic_dirt_message_screen;progress_screen;connect_screen;drippy_loading_overlay;
-  [loading_requirement_container_meta:41890ba7-c4ad-40be-b274-3351ba9d9412-1763849286062] = [groups:][instances:]
+  universal_layout_whitelist = title_screen;create_world_screen;level_loading_screen;generic_dirt_message_screen;progress_screen;connect_screen;drippy_loading_overlay;
+  [loading_requirement_container_meta:dbbff093-d6f4-4130-b502-3513c5d2334a-1764292488178] = [groups:][instances:]
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/art/lunahasjumpped_2.png
+  image_path = [source:local]/config/fancymenu/assets/art/lunahasjumpped_1.png
   slide = false
   repeat_texture = false
   parallax = true
@@ -87,8 +87,8 @@ element {
   fade_out_speed = 1.0
   base_opacity = 1.0
   auto_sizing = false
-  auto_sizing_base_screen_width = 2562
-  auto_sizing_base_screen_height = 1443
+  auto_sizing_base_screen_width = 2511
+  auto_sizing_base_screen_height = 1419
   sticky_anchor = true
   anchor_point = top-left
   x = 0
