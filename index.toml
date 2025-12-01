@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/invmove.pw.toml"
-hash = "f759ab182ded464342c31777352e65a28e5e492a270fb7c20dda71daff9873da"
+hash = "2b8cc2bbdaf6faf6e68ce536f7ce00964dde7409eb373ef0483e083356d1d061"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "cbc43abcf8970bef4f13a2236f9178ceefe6a3db957a300a25d9d8e2e33be96c"
+hash = "340a5ce03cba9b447b2966016c7c2ace2e4c2c62db05cbd9e03415d9743ef752"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "4345889c03219d385b9f1ebad4cb7f19e017575b1a2097f0be32265cee148548"
+hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
 metafile = true
 
 [[files]]
