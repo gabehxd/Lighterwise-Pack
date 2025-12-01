@@ -114,7 +114,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/simple-rpc/server-entries.toml"
-hash = "2fca1a96fc6a4b07cdba82aad378f287e63109dd5b219987d3513fbb901c25e6"
+hash = "253f5478ae523f08c4765ea9b2d2fe5ff18c0e9f72e3dbd3c2e6700bb7756272"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
