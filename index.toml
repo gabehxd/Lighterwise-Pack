@@ -42,11 +42,11 @@ hash = "0904c257381ab094e33ced5c9f97b524ef003df20637ab37bd5028ae9044b349"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "82ecb4a76cd726b10260c6d7800f647cd7ff9d38566eb9c830b1993b608388e2"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "cd9cf58da203bc313a09ef5cb7137b89ab1a5995013101ae48b7d14a44193679"
+hash = "22786824e676645ec640a94803dcfed4ce96b105b8ac97b9f5915f86cddee57a"
 
 [[files]]
 file = "config/fancymenu/customization/connect_screen_layout.txt"
@@ -59,10 +59,6 @@ hash = "1b79946111e9dcbc32863d7ade840e76d9391d5b262132607d3043f56226a4f6"
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
 hash = "3bf8b41a8bdaeb890f379bbbdec0117d63d00394f024e0a466f067e9dd9ad73e"
-
-[[files]]
-file = "config/fancymenu/customization/keepinv_menu_layout.txt"
-hash = "9817923d4ec243c114af314b4339bf0cbfdd1b41888352d43c0e687cfb53285f"
 
 [[files]]
 file = "config/fancymenu/customization/lunahasjumpped_bg_1.txt"
@@ -81,12 +77,8 @@ file = "config/fancymenu/customization/lw_inventory_screen_layout.txt"
 hash = "f1e538887b09ab1809a0894970bb821153e608637b6d0e59102c5530a966ea95"
 
 [[files]]
-file = "config/fancymenu/customization/lw_pause_screen_layout.txt"
-hash = "00d52e3f576826399d93cea5b12e8fefc13f36260ae468c81eca629738d19bfd"
-
-[[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
-hash = "a8e4389ef800f16409e0481a00c07c7189ec40375fb6d3579d63e4a114c05dbe"
+hash = "b1f6e15e532e36cb3f8e686d2f990eaee36fbc72abb2fcf1aa41b85899d3f731"
 
 [[files]]
 file = "config/fancymenu/customization/theskycat101_bg_1.txt"
