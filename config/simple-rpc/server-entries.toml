@@ -26,7 +26,7 @@ version = 3
     #List of buttons (max 2) to show on the RPC
     [[entry.presence.buttons]]
         label = "Discord Server"
-        url = "https://lighterwise.gay/discord"
+        url = "https://discord.gg/lighterwise"
 	
 	[[entry.presence.buttons]]
         label = "Server Map"
