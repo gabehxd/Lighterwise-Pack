@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "659f7b849f370718cc5216c3de0fdc4863391f9889d00ebd4ccef8274ee7026d"
+hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
 
 [[files]]
@@ -574,23 +574,21 @@ hash = "22052f42b1b73226d9508ef42af962471c79c7daa281aac66a82a90c7d7bb9e5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/VanillaTweaks_r678778_MC1.21.x.zip"
+hash = "ee8cde9db12acff05b7f5ec7f5b3be15487f282015f9519d6150b1f9939f9737"
+
+[[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
 hash = "0e478f1b8d0fe6eb65fbdf20aa74e0e40e3f6b9100ee6f9737648a79fb05b262"
 metafile = true
 
 [[files]]
+file = "resourcepacks/credits.txt"
+hash = "48223064bc86ff061e5a04529cdbfdbba954ef9b462dc7f2369960f46c9be595"
+
+[[files]]
 file = "resourcepacks/illogically-looping-lanterns.pw.toml"
 hash = "87da6f7815fa2f2696e2be3e283fadda8e80fd186bb5e3890fbd93ed941188da"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-on-fire.pw.toml"
-hash = "a325c5cdc15dd6aa3be064b3b07b1b7e343858b62b268cd224843cfe6916db67"
-metafile = true
-
-[[files]]
-file = "resourcepacks/low-shield-pack.pw.toml"
-hash = "fa8d3d8d45280d5f6ff886131df0ebba40930b876c34c0e8e4a2e266f314a69b"
 metafile = true
 
 [[files]]
