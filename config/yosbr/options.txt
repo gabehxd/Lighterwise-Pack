@@ -7,7 +7,7 @@ joinedFirstServer:true
 maxFps:260
 onboardAccessibility:true
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.9.6.zip","file/Illogically Looping Lanterns.zip","file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip","file/LowOnFire v1.21.9§8.zip","file/Low Shield.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip"]
+resourcePacks:["vanilla","fabric","continuity:default","continuity:glass_pane_culling_fix","file/Simple Grass Flowers v1.9.6.zip","file/VanillaTweaks_r678778_MC1.21.x.zip","file/Illogically Looping Lanterns.zip","file/better_flame_particles-v3.1-mc1.21.9+-resourcepack.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip"]
 incompatibleResourcePacks:["file/Illogically Looping Lanterns.zip","file/Theone\u0027s Eating Animation Pack v1.0.zip"]
 simulationDistance:8
 skipMultiplayerWarning:true
