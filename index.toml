@@ -142,7 +142,7 @@ hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
+hash = "375d545e83e1aabc7700c5f0bea4f7bcf1a19e5e35f9a2155bde2e1c9b0ebc61"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -202,7 +202,7 @@ hash = "ff914767098b00b03bd4ffc92f0d72320dc6a700d556c09d5e460404b77a530a"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d72633e0fa4afc8c47fe731517668e1eab4627e35b32eb8861fbad13ee520ed8"
+hash = "8c6e06e74bfa849d662486fa8888a0a02812090623121e554003e376e76cad14"
 
 [[files]]
 file = "config/yosbr/servers.dat"
