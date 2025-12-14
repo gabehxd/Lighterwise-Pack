@@ -3,11 +3,11 @@ filename = "Illogically Looping Lanterns.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/It1UKgih/versions/Hd5DE3Lo/Illogically%20Looping%20Lanterns.zip"
+url = "https://cdn.modrinth.com/data/It1UKgih/versions/i2hEeh9Y/Illogically%20Looping%20Lanterns.zip"
 hash-format = "sha512"
-hash = "f3f7c752b312e733d3f1e2debf0a30dd5e6ae5a608c86e6e4ae19d4fc520f5792730898371ed6c07e4b06716abf1bac507d7e25b79960088077569863b10c15b"
+hash = "7acd45780b4803c7d6af39708e338c90f653152a2afed3efa551f212bb5c6d6b8c635e1c74e7859341ed7ab10c9b9b82e2e6ebb3761559bee55ee718c31b0f0c"
 
 [update]
 [update.modrinth]
 mod-id = "It1UKgih"
-version = "Hd5DE3Lo"
+version = "i2hEeh9Y"

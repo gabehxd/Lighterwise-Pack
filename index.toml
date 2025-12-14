@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatanimation.pw.toml"
-hash = "1824973cb742d12562cecdf5f6018d820d7b9461b3f45aa562f6f0b34348f812"
+hash = "b7fe9d496e798dd9a79d852aefd69d58b7b7f5fd90ed4f6ec503fac1be05751b"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "a43e3d76464a16015d62ba08d51da734f92377f0889c3984656d6d5739d284b2"
+hash = "cec18d221cb8c8bc1a13ee9657c13a9152673c778471c5bad9482f0b66bd0aeb"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "63fe49aaee4880ff28e30aa558084f7322d5ec2bf110022bc5ae89a9be5cf2bf"
+hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5443c56a46d7fca84a1f96dc58315951a24cf8954f059aa35f213f28214d468d"
+hash = "b6dd8c2e3c0b386b2551844c81c41940554f373c24aa8a35f20dfd63022e59fb"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5a6ee9ae2de75743aa027eb753ac9c3cb92305df67bde8fe2cefdd2df0eb49d7"
+hash = "deb841bd032e5b2722df01d2743b1fc67be20540b9608ee29501909f37ba3015"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "a899b53047ae6e78b84eb316928d49a165df7d0cc92cfc3cf2e1a8a3b2868581"
+hash = "2429bf75e06352fd088cc43f1204b6a106560420c5ff93095820fd0ad64f33fc"
 metafile = true
 
 [[files]]
@@ -455,12 +455,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+hash = "d3d3ebf53454b237e6ac91a6e3dc5fd34bfeefcf0714a11bfadd3e1488161772"
 metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "b5cb84815833d2b87d74c5056428ccb267ec68216495022041a799f9b85c6d07"
+hash = "891f8ff49d499a48b03bcf02ab28a6763932dc8065c590a495bf8e6f74cac591"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "627733f5ea87211180e1ff8c59dcb97e64a49c19ecb1a49621e85c86c8448e40"
+hash = "a59c8c9b07609b40f86f5f7f7b4b6815c2c96bd670d3026232bbaf8afef419d5"
 metafile = true
 
 [[files]]
@@ -598,7 +598,7 @@ hash = "48223064bc86ff061e5a04529cdbfdbba954ef9b462dc7f2369960f46c9be595"
 
 [[files]]
 file = "resourcepacks/illogically-looping-lanterns.pw.toml"
-hash = "87da6f7815fa2f2696e2be3e283fadda8e80fd186bb5e3890fbd93ed941188da"
+hash = "e1b1bd78f4bd0c9719ee17efc8d941f9c967e557b7118d2ea71b3f3df7bcfd62"
 metafile = true
 
 [[files]]
