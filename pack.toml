@@ -1,15 +1,15 @@
 name = "Lighterwise Pack"
 author = "gabeh"
-version = "1.5.2"
+version = "1.6.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6b9834fa58ac80fb8324a47536d52871f1285e098588beac718006ac457bbb1e"
+hash = "30e328bfcb1032dead7e28425038c2965a5dd754183cec5a0bb0b46592638f5f"
 
 [versions]
-fabric = "0.18.1"
+fabric = "0.18.2"
 minecraft = "1.21.10"
 
 [options]
