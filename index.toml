@@ -283,6 +283,11 @@ hash = "da925d1159906a6c993fa4be167a48ae350d77daa1950a68135bf56c4e0dbb62"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "66aff45f8d5bcef09f0af464c1f605a89c1d26de657343853d991380aabb5339"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "d036c801bc536e98cb8e5fb4c6a4be038d5e4facae4a73850588f58559cceb48"
 metafile = true
@@ -560,6 +565,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "61d853a4f2d353ac126a8196414efc82d0ca0402da2a8e492383dd539bfe4976"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "7d50fe5c99af110d88c568b647fc89ebed0474484cb84019973f16faa42766c6"
 metafile = true
 
 [[files]]
