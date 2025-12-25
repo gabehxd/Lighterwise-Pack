@@ -1,0 +1,5 @@
+{
+	"minMarkerDistance": 15,
+	"maxMarkerDistance": 200,
+	"maxMarkerWaypoints": 5,
+}

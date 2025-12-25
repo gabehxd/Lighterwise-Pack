@@ -1,0 +1,10 @@
+{
+	"serverEntries": [
+		{
+			"maptype": "Dynmap",
+			"ip": "mc.lighterwise.gay",
+			"link": "https://lighterwise.gay/eridu/"
+		}
+	],
+	"configVersionDoNotEdit": 2
+}

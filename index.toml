@@ -423,6 +423,11 @@ hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
+file = "mods/maplink.pw.toml"
+hash = "e13d721ed1605b3d8d53d00578a735db9a515e92bf4a0ff2ad61037fdba6ad78"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "7ff35cde15036641fbd5c677962321fa5cfc4da8d5c71193b670d4f15a981577"
 metafile = true
