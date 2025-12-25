@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "039ad709a142d6103c5b871964c18a8bdf153c13e9074f0c2b91004040476387"
+hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
 
 [[files]]
@@ -407,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
-metafile = true
-
-[[files]]
-file = "mods/maplink.pw.toml"
-hash = "e13d721ed1605b3d8d53d00578a735db9a515e92bf4a0ff2ad61037fdba6ad78"
 metafile = true
 
 [[files]]
