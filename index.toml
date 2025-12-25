@@ -169,6 +169,18 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
+file = "config/yosbr/config/maplink/general.json5"
+hash = "d35749238553e9d9c8f65e78776a33d2eeead1cca27e625c37e85bb9e60ec846"
+
+[[files]]
+file = "config/yosbr/config/maplink/hud.json5"
+hash = "1592fbc282fdc4555456d7f08dbb4bee5027b9a973877b48dc2c16525b19bf52"
+
+[[files]]
+file = "config/yosbr/config/maplink/minimap.json5"
+hash = "628a34f734096039adbc77e0067b1a6bc59df15501649eb5c842be08bb5db248"
+
+[[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
