@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "064f49cf069fedf5bdcb16e0bce408ce78032d9c40d60e5164cc1f9c54576e5d"
+hash = "1056aaa74927671d74b9f0a7fb384d010c3dc3238556b9ac4a21d589b47a37ee"
 metafile = true
 
 [[files]]
@@ -469,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/optiboxes.pw.toml"
-hash = "7b60d0a2bf245013d8f4f90966a8c579879980d0b070b3b3fee040c22613bb24"
+hash = "d908abd3e80eb77512e8026ff9bb024c3dfc54b8d59749703a9ed1012c2755c3"
 metafile = true
 
 [[files]]
@@ -545,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "82a7a2d7cf37f5ceab22bcdacfd3206ede5a69c30b4f567a3976293e2231d30d"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "621d336436b3739f4c17f0b24cf1040cd3639821c4587d8c2b4fb321f53414c9"
 metafile = true
 
 [[files]]
