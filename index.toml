@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "1056aaa74927671d74b9f0a7fb384d010c3dc3238556b9ac4a21d589b47a37ee"
+hash = "039ad709a142d6103c5b871964c18a8bdf153c13e9074f0c2b91004040476387"
 metafile = true
 
 [[files]]
@@ -489,7 +489,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "11d24c43e240249b5dd24e0dcdb99b4c3ada768c1cd1664ed18fc498d6add67c"
+hash = "8ef1f1a167a37de69778f67640d494189ce606ca2f39000c133f81a2f2475edf"
 metafile = true
 
 [[files]]
