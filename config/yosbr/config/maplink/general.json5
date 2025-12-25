@@ -1,7 +1,7 @@
 {
 	"serverEntries": [
 		{
-			"maptype": "Dynmap",
+			"maptype": "Bluemap",
 			"ip": "mc.lighterwise.gay",
 			"link": "https://lighterwise.gay/eridu/"
 		}
