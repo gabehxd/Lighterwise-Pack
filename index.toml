@@ -238,7 +238,7 @@ hash = "aebfe7cca19f071028f32c14e4b9db7e605b0f9dc46a02afe2157f2cd6c5969f"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "7f1c3e31956f93cdfde2908945bd27b2f28a495fda5404bdeb453c4b97c95c3f"
+hash = "f4bd97d3dacf5726247f4a2dee57e318537a354c68757cd3e2f3329b17754fd0"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/maplink.pw.toml"
-hash = "bb629dde390add8f98e58661320f3fe0bfd37f5f23e9cc0ce12b3786a4adc1f2"
+hash = "7d65f2be8f5fb676d3f3e013ea011d947dfa2203e6002d98945f6eaa60e57f63"
 metafile = true
 
 [[files]]
