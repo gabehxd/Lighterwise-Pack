@@ -1,13 +1,13 @@
 name = "Map Link  (formerly Remote Player Waypoints for Xaero's Map)"
-filename = "maplink-fabric-4.1.2-1.21.9-1.21.10.jar"
+filename = "maplink-fabric-4.2.1-1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/tCfyIwgH/maplink-fabric-4.1.2-1.21.9-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/kiByZ6gx/versions/dDsG38tw/maplink-fabric-4.2.1-1.21.11.jar"
 hash-format = "sha512"
-hash = "596217ce4a8203313a92d30c740d6036d6df411b28e826221f87a0b22a048dd43eba8f4d9e6bf21e5aaa0f55084618f02c8c46621643e8f655c7059c1c3c113a"
+hash = "c1559af198273de5bdd7d6d456fde2c7ddba7c0d788f6ee8e15d03969a37993f2f3747fe70ded10a6b84f1888ecbbaac98d00ffb9622a1925ec9ad7861468d5f"
 
 [update]
 [update.modrinth]
 mod-id = "kiByZ6gx"
-version = "tCfyIwgH"
+version = "dDsG38tw"
