@@ -1,0 +1,13 @@
+name = "Fresh Flowers and Plants"
+filename = "Fresh Flowers and Plants 1.2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wyzOam9h/versions/h6wASYDa/Fresh%20Flowers%20and%20Plants%201.2.2.zip"
+hash-format = "sha512"
+hash = "d53d80b5bf1923f5a44f25136d5766f5f45a806e44095f702821791e44aec5a890f5deb8670a5774ab823d74ba007a6f47e6bd943f30c7d20515db55f5844736"
+
+[update]
+[update.modrinth]
+mod-id = "wyzOam9h"
+version = "h6wASYDa"
