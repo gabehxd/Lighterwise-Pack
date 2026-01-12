@@ -634,11 +634,6 @@ hash = "58fb926ddcfb9afa04dba55851a0e96bbb3abfa067e1817ad8f32c2bdcafb629"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fresh-flowers-and-plants.pw.toml"
-hash = "25f22f32cc936bb65640e01e7a3ad6abd121781e588a85c68771ec280ef61f69"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-ores-and-ingots.pw.toml"
 hash = "7f9d31aa7eb95464be67be879097e4d040bd6656ff3bbbaeecb6f9ad73028f9e"
 metafile = true
