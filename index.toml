@@ -317,6 +317,11 @@ hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "b32453041250975ffba451f0258eb91de9fa991e2a320fe36c6eafcb1c5742b7"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
