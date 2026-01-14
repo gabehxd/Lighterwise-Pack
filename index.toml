@@ -230,7 +230,7 @@ hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "62a9e238b29f9e5aacec361e5ec1870ace6abfa749b8da1a1a8cd70e3226e818"
+hash = "e610fab46b57e9d9390ff54f2b0782fbeb30693048542050c8749c81f4806fce"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -631,11 +631,6 @@ hash = "48223064bc86ff061e5a04529cdbfdbba954ef9b462dc7f2369960f46c9be595"
 [[files]]
 file = "resourcepacks/fresh-buckets.pw.toml"
 hash = "58fb926ddcfb9afa04dba55851a0e96bbb3abfa067e1817ad8f32c2bdcafb629"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fresh-ores-and-ingots.pw.toml"
-hash = "7f9d31aa7eb95464be67be879097e4d040bd6656ff3bbbaeecb6f9ad73028f9e"
 metafile = true
 
 [[files]]
