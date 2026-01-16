@@ -608,7 +608,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d74d244b3524bea2326becd2ceaa27b8e231156aba33448533cd29b12ed48318"
+hash = "671e1badbd1d6b1fe20851202a5328f0600534af609afb0b8b1a0840aa222246"
 metafile = true
 
 [[files]]
@@ -619,10 +619,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/VanillaTweaks_r354252_MC1.21.x.zip"
 hash = "d3aad85c605a557b7352331e7bb5079d94ffe500d64fd3f28fdf2780e784ee83"
-
-[[files]]
-file = "resourcepacks/ZenlessRadio.zip"
-hash = "228b9493b0653c21e06a2480fe6e12fba9860c1de7995fe39b949c4a5ef46361"
 
 [[files]]
 file = "resourcepacks/better-flame-particles.pw.toml"
@@ -656,6 +652,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/theones-eating-animation-pack.pw.toml"
 hash = "5eb0b934c1d51c723ee22536d0eb72f4f4094c8cd0988224473fb3b6d841e6e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/zenless-radio.pw.toml"
+hash = "1139fabc7adfc1425abb94d88bc45d70a23d04b1a5202205d382eabdb0ac8cdf"
 metafile = true
 
 [[files]]
