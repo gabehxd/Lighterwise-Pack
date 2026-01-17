@@ -508,7 +508,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "80240bd6be393c35cd863b8f96d1e3ce877ee5aa16e30eac6c17ace1c0b27473"
+hash = "a20d3f757a4b1587cd49e0bc6fbda787a602498e12a233fa6519b5b0a78f4546"
 metafile = true
 
 [[files]]
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/zenless-radio.pw.toml"
-hash = "1139fabc7adfc1425abb94d88bc45d70a23d04b1a5202205d382eabdb0ac8cdf"
+hash = "9c80a4d5b84aa353d44b5ba5353dfb7cc4d26388e8ff0cafc26bd47fe5d6c515"
 metafile = true
 
 [[files]]

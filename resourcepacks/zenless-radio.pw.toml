@@ -3,11 +3,11 @@ filename = "ZenlessRadio.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/C7dT20IL/versions/D7rovsA0/ZenlessRadio.zip"
+url = "https://cdn.modrinth.com/data/C7dT20IL/versions/UKS9rO7K/ZenlessRadio.zip"
 hash-format = "sha512"
-hash = "8fa779fe1c51cbd54a1627229ced3c6cf86f232d6ee195d1324b1ac15e289ace37da8ef15380aff36f66bfe57674ae84854b37e9685f0189255fc5069528c22a"
+hash = "41225373d6a06cc9028acfcbe8cc9eb458633a6b272a899caf4753cd624fa8ecbba936fd05ea6feeea23ebbd5b83d9ec063f45debc23ea04e60ae7f20c495e1f"
 
 [update]
 [update.modrinth]
 mod-id = "C7dT20IL"
-version = "D7rovsA0"
+version = "UKS9rO7K"
