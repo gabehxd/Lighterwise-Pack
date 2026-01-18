@@ -145,12 +145,124 @@ file = "config/modpack_defaults/config/debugify.json"
 hash = "041e0e3b91b6a51364414ba03737e5b5c55b23abd089705109d5b154022e3250"
 
 [[files]]
+file = "config/modpack_defaults/config/drippyloadingscreen/options.txt"
+hash = "e0e8c50f3d6fe28a59f79d8977e300c1ac7aaa7ded151b80532009779f3cd6dc"
+
+[[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
 
 [[files]]
 file = "config/modpack_defaults/config/entity_texture_features.json"
 hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/16.png"
+hash = "8247cf57cc7926450c1c3b5bb5f9c53e6d2515cdc91c47a010110e9fa2a3dcb0"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/32.png"
+hash = "d08ff6fd66fc204f14dc22b65fb55b81d041b97147f77e236c77c529fcd42dbd"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/art/lunahasjumpped_1.png"
+hash = "3a87137dcccc21a9f01e90988551105e179c708e99f4cb8acd54cd7f7942978d"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/art/lunahasjumpped_2.png"
+hash = "1a738941f8cf8179cd6a9454b976b97d5560fd3db690a07827f6806834cee1fb"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/art/theskycat101_1.png"
+hash = "3a4578552a0f8d2e6c3f128b39f264726273649ed26c441d015cf9bf18b2cabe"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/art/theskycat101_2.png"
+hash = "9984f4ef72d5715ae28fc50d954d48ddd1a3d238968426e3702a2c4c75495f76"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/load3.png"
+hash = "1760097ab0f5e09b12b817f777ecd5e62d1f0d97be84fce6784267eb37f4a040"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/lw1.apng"
+hash = "13d9237709040803e6f602dfb237b059d7b3a4de83ff6f97bc109bf236ea7c6d"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/mac.icns"
+hash = "0904c257381ab094e33ced5c9f97b524ef003df20637ab37bd5028ae9044b349"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customizablemenus.txt"
+hash = "22786824e676645ec640a94803dcfed4ce96b105b8ac97b9f5915f86cddee57a"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/connect_screen_layout.txt"
+hash = "e8cd86a147d54e2fa76deaac0468d059986d6d02fcae4ebe63690979f57fe7df"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "1b79946111e9dcbc32863d7ade840e76d9391d5b262132607d3043f56226a4f6"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "3bf8b41a8bdaeb890f379bbbdec0117d63d00394f024e0a466f067e9dd9ad73e"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/lunahasjumpped_bg_1.txt"
+hash = "1fdf1f426900b95a023e7045fcccf903cef9d4833cab5302e6b107d2dbef3596"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/lunahasjumpped_bg_2.txt"
+hash = "243f7efc4a7928ce9bf7f07ce6a4306e8bb019c1dc64c62f4fc8677afaf92fed"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/lw_container_screen_layout.txt"
+hash = "1d00988cf7073a7f392652a6da66c91853b57a0380d20b488c7400c21349c0fd"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/lw_inventory_screen_layout.txt"
+hash = "f1e538887b09ab1809a0894970bb821153e608637b6d0e59102c5530a966ea95"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/mainmenu.txt"
+hash = "b1f6e15e532e36cb3f8e686d2f990eaee36fbc72abb2fcf1aa41b85899d3f731"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/theskycat101_bg_1.txt"
+hash = "2c49a25d520ba2819458f920437812db6da535afc192cc90a6b3ceb3f8377e40"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/theskycat101_bg_2.txt"
+hash = "824996ac91a3eef2d573399e97a2082a73057aec972debbe4dccdfde0cd00b5d"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/options.txt"
+hash = "ff44cc19f6598ba0d0af8326e951b183c3fb759368a821058210e1b8d575d08c"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/dark.json"
+hash = "3f1263eaf693fdb6a315099b06797ac18830faa66c620916a80337a5082fd850"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/ui_themes/light.json"
+hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
@@ -191,6 +303,14 @@ hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 [[files]]
 file = "config/modpack_defaults/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
+
+[[files]]
+file = "config/modpack_defaults/config/simple-rpc/server-entries.toml"
+hash = "253f5478ae523f08c4765ea9b2d2fe5ff18c0e9f72e3dbd3c2e6700bb7756272"
+
+[[files]]
+file = "config/modpack_defaults/config/simple-rpc/simple-rpc.toml"
+hash = "e543be6714c718c72faaebc2ce14bd2970a8a114d766939392fb573b67c09990"
 
 [[files]]
 file = "config/modpack_defaults/config/sodium-options.json"
@@ -292,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "0551f579b202c915f86309d3c14cff0bf7f2f6b3f043b437015ccd1166c153c4"
+hash = "4114c30b0bbfb85ecf711b1fd470cdc2aadf5d7b408f0355af2cb39646d4ed44"
 metafile = true
 
 [[files]]
