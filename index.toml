@@ -121,6 +121,50 @@ file = "config/modpack_defaults/config/DistantHorizons.toml"
 hash = "5b1ba329a37de46fc0a36be19c1cc8ba3d59fdec377f2da3c568b6a1789af2a2"
 
 [[files]]
+file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
+hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
+
+[[files]]
+file = "config/modpack_defaults/config/NoChatReports/NCR-Common.json"
+hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
+
+[[files]]
+file = "config/modpack_defaults/config/PaginatedAdvancements.json5"
+hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
+
+[[files]]
+file = "config/modpack_defaults/config/bettergrass.json"
+hash = "8aaf74864043e08741cc3c60f3ffe0d9aaf1fe757f111bb41064fb580d25bdf1"
+
+[[files]]
+file = "config/modpack_defaults/config/capes.json5"
+hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
+
+[[files]]
+file = "config/modpack_defaults/config/debugify.json"
+hash = "041e0e3b91b6a51364414ba03737e5b5c55b23abd089705109d5b154022e3250"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
+
+[[files]]
+file = "config/modpack_defaults/config/entity_texture_features.json"
+hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
+
+[[files]]
+file = "config/modpack_defaults/config/fastquit.toml"
+hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
+
+[[files]]
+file = "config/modpack_defaults/config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
+file = "config/modpack_defaults/config/lambdynlights.toml"
+hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
+
+[[files]]
 file = "config/modpack_defaults/config/maplink/general.json5"
 hash = "d35749238553e9d9c8f65e78776a33d2eeead1cca27e625c37e85bb9e60ec846"
 
@@ -131,6 +175,30 @@ hash = "1592fbc282fdc4555456d7f08dbb4bee5027b9a973877b48dc2c16525b19bf52"
 [[files]]
 file = "config/modpack_defaults/config/maplink/minimap.json5"
 hash = "628a34f734096039adbc77e0067b1a6bc59df15501649eb5c842be08bb5db248"
+
+[[files]]
+file = "config/modpack_defaults/config/midnightlib.json"
+hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
+
+[[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
+
+[[files]]
+file = "config/modpack_defaults/config/moreculling.toml"
+hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
+
+[[files]]
+file = "config/modpack_defaults/config/puzzle.json"
+hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-options.json"
+hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/modpack_defaults/config/sodium-shadowy-path-blocks-options.json"
+hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/minimap/client.cfg"
@@ -349,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "0731319bb26b25441002d8d57136ab1fccd3f54719e0a4f0bd0c3b5956238c6b"
+hash = "c8bac36cc7a80745ef1e43b80b5051f6ef2596c06bdf025676fb03ad62759532"
 metafile = true
 
 [[files]]
@@ -449,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a20d3f757a4b1587cd49e0bc6fbda787a602498e12a233fa6519b5b0a78f4546"
+hash = "b836ef006fbbab08a8c8e96ee79bb08eaf2896cc86ecd15cf7c32422ace354ab"
 metafile = true
 
 [[files]]
