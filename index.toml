@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/debugify.json"
+hash = "041e0e3b91b6a51364414ba03737e5b5c55b23abd089705109d5b154022e3250"
+
+[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "e0e8c50f3d6fe28a59f79d8977e300c1ac7aaa7ded151b80532009779f3cd6dc"
 
@@ -113,128 +117,60 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/modpack_defaults/config/DistantHorizons.toml"
+hash = "5b1ba329a37de46fc0a36be19c1cc8ba3d59fdec377f2da3c568b6a1789af2a2"
+
+[[files]]
+file = "config/modpack_defaults/config/maplink/general.json5"
+hash = "d35749238553e9d9c8f65e78776a33d2eeead1cca27e625c37e85bb9e60ec846"
+
+[[files]]
+file = "config/modpack_defaults/config/maplink/hud.json5"
+hash = "1592fbc282fdc4555456d7f08dbb4bee5027b9a973877b48dc2c16525b19bf52"
+
+[[files]]
+file = "config/modpack_defaults/config/maplink/minimap.json5"
+hash = "628a34f734096039adbc77e0067b1a6bc59df15501649eb5c842be08bb5db248"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/client.cfg"
+hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
+hash = "3aa1f09e37fc6f8af94a9b95995cb630e3189ff19f4829df84c9af25e6cf2a45"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "91d179279d960ef0a142608d3ceccba5062f7461d11d0cfe3a4d4b067782c537"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "9e1877c0fae35b98a139b86199a1e19e2425179a1bf8415e6bf9d1a5c7827638"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/client.cfg"
+hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
+
+[[files]]
+file = "config/modpack_defaults/config/xaerohud.txt"
+hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "396216bafcf8f5536f07468344ca7053e36381b0a96937c06314f7ab5dbb9b00"
+
+[[files]]
+file = "config/modpack_defaults/servers.dat"
+hash = "aebfe7cca19f071028f32c14e4b9db7e605b0f9dc46a02afe2157f2cd6c5969f"
+
+[[files]]
 file = "config/simple-rpc/server-entries.toml"
 hash = "253f5478ae523f08c4765ea9b2d2fe5ff18c0e9f72e3dbd3c2e6700bb7756272"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
 hash = "e543be6714c718c72faaebc2ce14bd2970a8a114d766939392fb573b67c09990"
-
-[[files]]
-file = "config/yosbr/config/DistantHorizons.toml"
-hash = "5b1ba329a37de46fc0a36be19c1cc8ba3d59fdec377f2da3c568b6a1789af2a2"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
-
-[[files]]
-file = "config/yosbr/config/PaginatedAdvancements.json5"
-hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
-
-[[files]]
-file = "config/yosbr/config/bettergrass.json"
-hash = "8aaf74864043e08741cc3c60f3ffe0d9aaf1fe757f111bb41064fb580d25bdf1"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "69de1a523d9ca24248233c11178b2492984ba0b25b0355242d72b2ae17a7c284"
-
-[[files]]
-file = "config/yosbr/config/debugify.json"
-hash = "375d545e83e1aabc7700c5f0bea4f7bcf1a19e5e35f9a2155bde2e1c9b0ebc61"
-
-[[files]]
-file = "config/yosbr/config/dynamic_fps.json"
-hash = "f773c03c1cce5797e4d4698939ba8a06f421101a0403b8e018c3f3d86e752a45"
-
-[[files]]
-file = "config/yosbr/config/entity_texture_features.json"
-hash = "6a3760d2b7828efc524976294cc6fd17f16bdda9d9827bd55f8fcd58ce724355"
-
-[[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
-
-[[files]]
-file = "config/yosbr/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
-
-[[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
-
-[[files]]
-file = "config/yosbr/config/maplink/general.json5"
-hash = "d35749238553e9d9c8f65e78776a33d2eeead1cca27e625c37e85bb9e60ec846"
-
-[[files]]
-file = "config/yosbr/config/maplink/hud.json5"
-hash = "1592fbc282fdc4555456d7f08dbb4bee5027b9a973877b48dc2c16525b19bf52"
-
-[[files]]
-file = "config/yosbr/config/maplink/minimap.json5"
-hash = "628a34f734096039adbc77e0067b1a6bc59df15501649eb5c842be08bb5db248"
-
-[[files]]
-file = "config/yosbr/config/midnightlib.json"
-hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
-
-[[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
-
-[[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
-
-[[files]]
-file = "config/yosbr/config/sodium-shadowy-path-blocks-options.json"
-hash = "4773ede8076bdbcfb6b8ea3de058a56120aa7438ee6b25de297c10aa8f5ce393"
-
-[[files]]
-file = "config/yosbr/config/xaero/minimap/client.cfg"
-hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
-
-[[files]]
-file = "config/yosbr/config/xaero/minimap/profiles/default.cfg"
-hash = "3aa1f09e37fc6f8af94a9b95995cb630e3189ff19f4829df84c9af25e6cf2a45"
-
-[[files]]
-file = "config/yosbr/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "91d179279d960ef0a142608d3ceccba5062f7461d11d0cfe3a4d4b067782c537"
-
-[[files]]
-file = "config/yosbr/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "9e1877c0fae35b98a139b86199a1e19e2425179a1bf8415e6bf9d1a5c7827638"
-
-[[files]]
-file = "config/yosbr/config/xaero/world-map/client.cfg"
-hash = "7ef33b455ff854859881df29406635f20c2c419fe140dc5ce034c93cdc8bf870"
-
-[[files]]
-file = "config/yosbr/config/xaerohud.txt"
-hash = "6de57f88c55043cfafb952219205e2080da514284c822a277cd9f1ef804f0def"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "396216bafcf8f5536f07468344ca7053e36381b0a96937c06314f7ab5dbb9b00"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "aebfe7cca19f071028f32c14e4b9db7e605b0f9dc46a02afe2157f2cd6c5969f"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -284,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+hash = "0551f579b202c915f86309d3c14cff0bf7f2f6b3f043b437015ccd1166c153c4"
 metafile = true
 
 [[files]]
@@ -599,11 +540,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
